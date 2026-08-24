@@ -1,0 +1,106 @@
+﻿-- chunkname: @/var/folders/r9/xbxmw8n51957gv9ggzrytvf80000gp/T/com.ironhidegames.frontiers.windows.steam.ep3S4swo/kr2/data/game_debug_data.lua
+
+return {
+	default_page_for_terrain = {
+		[TERRAIN_STYLE_JUNGLE] = 3,
+		[TERRAIN_STYLE_UNDERGROUND] = 5,
+		[TERRAIN_STYLE_BEACH] = 7,
+		[TERRAIN_STYLE_HALLOWEEN] = 8
+	},
+	enemy_pages = {
+		{
+			"enemy_bouncer",
+			"enemy_desert_raider",
+			"enemy_desert_wolf_small",
+			"enemy_desert_wolf",
+			"enemy_desert_archer",
+			"enemy_scorpion",
+			"enemy_tremor",
+			"enemy_immortal",
+			"enemy_wasp",
+			"enemy_wasp_queen"
+		},
+		{
+			"enemy_executioner",
+			"enemy_munra",
+			"eb_efreeti"
+		},
+		{
+			"enemy_cannibal",
+			"enemy_hunter",
+			"enemy_shaman_priest",
+			"enemy_shaman_magic",
+			"enemy_shaman_shield",
+			"enemy_shaman_necro"
+		},
+		{
+			"enemy_alien_breeder",
+			"enemy_alien_reaper",
+			"enemy_savage_bird",
+			"enemy_savage_bird_rider",
+			"enemy_jungle_spider_big",
+			"enemy_jungle_spider_small",
+			"enemy_jungle_spider_tiny",
+			"enemy_gorilla"
+		},
+		{
+			"enemy_broodguard",
+			"enemy_blazefang",
+			"enemy_brute",
+			"enemy_darter",
+			"enemy_myrmidon",
+			"enemy_nightscale",
+			"enemy_quetzal",
+			"enemy_razorwing",
+			"enemy_savant"
+		},
+		{
+			"enemy_sniper",
+			"eb_saurian_king"
+		},
+		{
+			"enemy_greenfin",
+			"enemy_redspine",
+			"enemy_deviltide",
+			"enemy_deviltide_shark",
+			"enemy_bloodshell",
+			"enemy_blacksurge",
+			"enemy_bluegale",
+			"enemy_gunboat"
+		},
+		{
+			"enemy_halloween_zombie",
+			"enemy_ghoul",
+			"enemy_bat",
+			"enemy_ghost",
+			"enemy_werewolf",
+			"enemy_lycan",
+			"enemy_abomination",
+			"enemy_phantom_warrior",
+			"enemy_elvira",
+			"eb_dracula"
+		},
+		{
+			"enemy_anoobis",
+			"enemy_reaper_lord",
+			"mod_xerxes_invisibility"
+		},
+		{
+			"mod_blood",
+			"mod_poison",
+			"mod_shock_and_awe",
+			"mod_lava",
+			"mod_silence_totem",
+			"mod_weakness_totem",
+			"mod_death_rider"
+		},
+		{
+			"mod_munra_heal",
+			"mod_dart_poison",
+			"mod_shaman_priest_heal",
+			"mod_shaman_magic_armor",
+			"mod_shaman_armor",
+			"mod_efreeti"
+		}
+	}
+}
